@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+}
+
+.calculator-widget{
+    border: black 2px solid;
+    width:15%;
+    height: 100%;
+    padding: 1%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+#calc-output-field{
+    background: #e0e0e0;
+    width: 100%;
+    text-align: right;
+    font-size: 1em;
+}
+
+.button-grid{
+    width: 100%;
+}
+
+#calc-output-field p{
+    margin: 0;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 1.2em;
+}
+
+.calc-button{
+    width: 100%;
+    height: 100%;
+    font-size: 1.2em;
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
+}
